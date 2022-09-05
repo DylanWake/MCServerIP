@@ -1,2 +1,2 @@
 # MCServerIP
-Ip is on the first line of ip.txt, the first ip address
+Ip is on ip.txt, starting with 10.xx.xx.xx
